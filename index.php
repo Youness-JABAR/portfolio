@@ -458,7 +458,7 @@
                   </div>
 
                   <div class="mt-0">
-                    <input type="submit" class="btn btn-defeault btn-send" value="Send message">
+                    <input type="submit" name="submit" class="btn btn-defeault btn-send" value="Send message">
                   </div>
 
                 </div>
