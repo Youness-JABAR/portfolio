@@ -66,7 +66,7 @@ p {
 }
 
 .btn {
-  background: #333;
+  background: #4b53af;
   border: medium none;
   border-radius: 0;
   color: #fff;
@@ -75,6 +75,10 @@ p {
   line-height: 50px;
   padding: 0 30px;
 }
+.btn-send:hover {
+    background: #000;
+    color: #fff;
+  }
 
 .btn:hover, .btn:focus {
   color: #fff;
@@ -162,7 +166,7 @@ p {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #c6b398;
+  background: #000;
   color: #fff;
 }
 .back-to-top.active {

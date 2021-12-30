@@ -292,7 +292,7 @@
 
       <div class="container">
         <div class="section-title text-center">
-          <h2>Projects</h2>
+          <h2>Web/Mobile Projects</h2>
         </div>
       </div>
 
@@ -357,6 +357,46 @@
             </div>
 
           </div>
+
+
+        </div>
+      </div>
+<br>
+      <div class="container">
+        <div class="section-title text-center">
+          <h2>AI Projects</h2>
+        </div>
+      </div>
+      <div class="container">
+        <div class="  Projects-block">
+          <div class="row justify-content-md-center">
+
+            <div class="col col-lg-6">
+              <div class="  Projects-info">
+
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/mNBbranvQEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="  Projects-txt">
+
+                  <h4>Projects for media processing</h4>
+                  <p class="separator">1. Control the volume with your fingers<br>
+2. Virtual Painter<br>
+3. Virtual Mouse<br>
+4. Testing a virtual ring<br>
+5. Personal Trainer<br>
+6. Fingers counter<br>
+7. Face detection<br>
+8. Facemesh
+                    <HR>
+                    Technologies:  MediaPipe python framework, OpenCV.
+                  </p>
+
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+
         </div>
       </div>
 
@@ -454,6 +494,9 @@
 
     </div>
   </div><!-- End Footer -->
+  
+  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
   <!-- Vendor JS Files -->
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
