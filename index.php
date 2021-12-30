@@ -86,8 +86,8 @@
           <div class="col-lg-7">
             <div class="about-descr">
 
-              <p class="p-heading">Currently, I am a fifth year software engineering student at UCO- University of Cordoba – Spain. I spend most of my time developing web and mobile applications, i also enjoy learning about Artificial intelligence </p>
-              <p class="separator">Ambitious, curious and passionate about coding and new technologies, and with creative problem solving and critical analysis skills.</p>
+              <p class="p-heading">Currently, I am a fifth year software engineering student at UCO- University of Cordoba – Spain. I spend most of my time developing web and mobile applications, I also enjoy learning about Artificial intelligence </p>
+              <p class="separator">Ambitious, curious and passionate about coding and new technologies. with creative problem solving and critical analysis skills.</p>
               <br>
               <a type="button" href="https://drive.google.com/file/d/1cZJdg3qNw61_Z5nG-l-RDw8oh5LTRv8n/view?usp=sharing" target="_blank" class="btn  btn-send">View Resume</a>
             </div>
