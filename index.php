@@ -379,14 +379,12 @@
       </div>
       <div class="container">
         <div class="  Projects-block">
-          <div class="row justify-content-md-center">
+          <div class="row justify-content-center">
 
-            <div class="col col-lg-6">
-              <div class="  Projects-info">
-
-              <iframe width="560" height="315" src="https://www.youtube.com/embed/mNBbranvQEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <div class="col  col-lg-6 col-md-8 ">
+            <iframe  width="100%" height="40%" src="https://www.youtube.com/embed/mNBbranvQEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <div class="  Projects-txt">
-
+              <div class="  Projects-info">
                   <h4>Projects for media processing</h4>
                   <p class="separator">1. Control the volume with your fingers<br>
 2. Virtual Painter<br>
